@@ -1,1 +1,2 @@
-openai_key="sk-proj-V3gLvdORZ36mRsbGPKjbT3BlbkFJcfzrNcZ0oiToRjWTmoTn"
+openai_key="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"
+#sk-proj-V3gLvdORZ36mRsbGPKjbT3BlbkFJcfzrNcZ0oiToRjWTmoTn

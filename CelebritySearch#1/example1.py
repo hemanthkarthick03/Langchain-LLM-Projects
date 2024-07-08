@@ -11,7 +11,7 @@ from langchain.chains import SequentialChain
 
 import streamlit as st
 
-os.environ["OPENAI_API_KEY"]=openai_key
+os.environ["OPENAI_API_KEY"]="openai_key"
 
 # streamlit framework
 
